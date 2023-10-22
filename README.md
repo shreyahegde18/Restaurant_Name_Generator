@@ -1,4 +1,6 @@
 # Restaurant Name Generator
+
+![Screenshot](Screenshots/Screenshot from 2023-10-22 09-51-39.png)
  ## Installation (Linux)
 ## Clone
 ```bash
@@ -11,7 +13,7 @@ $ source langchain/bin/activate
 ```
 
 ## OpenAI Key
-Get your own [OpenAI API Key](#https://platform.openai.com/account/api-keys)
+Get your own [OpenAI API Key](#https://openai.com/)
 
 Add you openapi_key [here](secrete.py)
 
