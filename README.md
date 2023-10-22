@@ -1,6 +1,6 @@
 # Restaurant Name Generator
 
-![Screenshot](Screenshots/Screenshot from 2023-10-22 09-51-39.png)
+![Screenshot](Screenshots/screenshot.png)
  ## Installation (Linux)
 ## Clone
 ```bash
