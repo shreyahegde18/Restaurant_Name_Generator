@@ -13,7 +13,7 @@ $ source langchain/bin/activate
 ```
 
 ## OpenAI Key
-Get your own [OpenAI API Key](#https://openai.com/)
+Get your own [OpenAI API Key](https://openai.com/)
 
 Add you openapi_key [here](secrete.py)
 
