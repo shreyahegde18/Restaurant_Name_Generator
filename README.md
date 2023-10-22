@@ -15,7 +15,7 @@ $ source langchain/bin/activate
 ## OpenAI Key
 Get your own [OpenAI API Key](https://openai.com/)
 
-Add you openapi_key [here](secrete.py)
+Add your openapi_key [here](secrete.py)
 
 ## Run
 ```bash
